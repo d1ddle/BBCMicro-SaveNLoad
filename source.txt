@@ -1,6 +1,6 @@
 1 REM WRITE PROGRAM
 2 REM (C) D1DDLE 2021 - HTTPS://D1DDLE.COM
-3 REM https://github.com/d1ddle/BBCMicroFileReadWrite
+3 REM https://github.com/d1ddle/BBCMicro-SaveNLoad
 
 10 ON ERROR GOTO 100
 20 A = OPENOUT"TRIAL1"
@@ -23,7 +23,7 @@
 
 1 REM READ PROGRAM
 2 REM (C) D1DDLE 2021 - HTTPS://D1DDLE.COM
-3 REM https://github.com/d1ddle/BBCMicroFileReadWrite
+3 REM https://github.com/d1ddle/BBCMicro-SaveNLoad
 
 10 B = OPENIN"TRIAL1"
 20 REPEAT
