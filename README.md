@@ -13,3 +13,8 @@
 
 #### I can see this file read/write system being used in gamesaves, document editors and so much more.
 #### I'm aware that this kind of thing already exists, but I felt like separating it from a different program I'm working on, just for ease of use when using it in another.
+
+##### Previously known as:
+##### - BBC Micro Data Read Write
+##### - BBC Micro File Read Write
+##### - BBC Micro Save N Load (Current)
