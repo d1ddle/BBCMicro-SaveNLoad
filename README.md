@@ -1,4 +1,4 @@
-# BBC Micro DATA Read/Write
+# BBC Micro File/DATA Read/Write
 ### This program set (of two) can read and write DATA stored in memory to a file stored on the BBC micro's disk filesystem.
 
 #### The `.ssd` in the latest release contains both the Read and Write programs along with a test file, named TRIAL1.
