@@ -4,6 +4,8 @@
 #### The `.ssd` in the latest release contains both the Read and Write programs along with a test file, named TRIAL1.
 #### Both Read and Write programs can also be found in the source.txt.
 
+### Information about and around this program can be found on the Wiki - https://github.com/d1ddle/BBCMicro-SaveNLoad/wiki
+
 #### Both these programs have been improved upon from the demo in the "Guide to Programming on the BBC Micro" Book, published in 1985.
 #### Unlike the program in the book, you don't need to pre-input the length of your DATA, as BBC Micro Save N Load uses an error handler to determine when the input Data has run out.
 
