@@ -6,7 +6,7 @@
 
 ### Information about and around this program can be found on the Wiki - https://github.com/d1ddle/BBCMicro-SaveNLoad/wiki
 
-#### Both these programs have been improved upon from the demo in the "Guide to Programming on the BBC Micro" Book, published in 1985.
+#### Both these programs have been improved upon from the demo in the "BASIC Programming on the BBC Micro" Book, published in 1985.
 #### Unlike the program in the book, you don't need to pre-input the length of your DATA, as BBC Micro Save N Load uses an error handler to determine when the input Data has run out.
 
 ### To use the technology in your own programs, change the filename at the top of both the read and write programs, and change/add DATA input/s in the write program.
